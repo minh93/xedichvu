@@ -11,6 +11,21 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', ['as' => 'root', function () {
+  return view('index');
+}]);
+
+Route::get('contact', ['as' => 'contact', function()
+{
+  return view('contact');
+}]);
+
+Route::get('intro', ['as' => 'intro', function()
+{
+  return view('introduce');
+}]);
+
+Route::get('duadon', ['as' => 'duadon', function()
+{
+  return view('service');
+}]);
