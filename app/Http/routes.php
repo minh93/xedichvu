@@ -29,3 +29,8 @@ Route::get('duadon', ['as' => 'duadon', function()
 {
   return view('service');
 }]);
+
+Route::get('gallery', ['as' => 'gallery', function()
+{
+  return view('gallery');
+}]);

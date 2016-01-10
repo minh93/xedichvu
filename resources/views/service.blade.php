@@ -16,10 +16,10 @@
           <div class="gallery-slider">
             <ul class="slides">
               <li><a href="images/Refined/s1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s1.jpg" alt="Image"></a></li>
-              <li><a href="images/Refined/g1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/g1.jpg" alt="Image"></a></li>
-              <li><a href="images/Refined/b5.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/b5.jpg" alt="Image"></a></li>
-              <li><a href="images/Refined/s1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s1.jpg" alt="Image"></a></li>
-              <li><a href="images/Refined/g1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/g1.jpg" alt="Image"></a></li>
+              <li><a href="images/Refined/g1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s2.jpg" alt="Image"></a></li>
+              <li><a href="images/Refined/b5.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s3.jpg" alt="Image"></a></li>
+              <li><a href="images/Refined/s1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s4.jpg" alt="Image"></a></li>
+              <li><a href="images/Refined/g1.jpg" rel="prettyPhoto[gallery]"><img src="images/Refined/s5.jpg" alt="Image"></a></li>
             </ul>
           </div>
         </div>

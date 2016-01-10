@@ -73,14 +73,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="services-four-columns.html">Các loại xe</a>
-                            <ul>
-                                <li><a href="services-one-columns.html">Xe 7 chỗ</a></li>
-                                <li><a href="services-three-columns.html">Xe 16 chỗ</a></li>
-                                <li><a href="services-four-columns.html">Xe 29 chỗ</a></li>
-                                <li><a href="services-four-columns.html">Xe 45 chỗ</a></li>
-                                
-                            </ul>
+                            <a href="{{route('gallery')}}">Loại xe</a>
                         </li>
                         <li>
                             <a href="four-columns-gallery.html">Báo giá</a>
