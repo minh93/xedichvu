@@ -9,7 +9,7 @@
         <a href="single-service.html" title="Toyota Innova G"  class="img-hover" ><img src="images/Refined/AA Innova G.jpg" alt="Slider Image"></a>
       </li>
       <li>
-        <a href="single-service.html" title="Force Everest"  class="img-hover" ><img src="images/Refined/AA Ford Everest.jpg" alt="Slider Image"></a>
+        <a href="single-service.html" title="Ford Everest"  class="img-hover" ><img src="images/Refined/AA Ford Everest.jpg" alt="Slider Image"></a>
       </li>
       <li>
         <a href="single-service.html" title="Toyota Fortuner"  class="img-hover" ><img src="images/Refined/AA toyota fortuner.jpg" alt="Slider Image"></a>
@@ -27,7 +27,7 @@
         <p>(đời xe 2013-2014)</p>
       </li> 
       <li>
-        <h4>Force Everest</h4>
+        <h4>Ford Everest</h4>
         <p>(đời xe 2013-2015)</p>
       </li> 
       <li>
@@ -39,7 +39,7 @@
         <p>(đời xe 2014)</p>
       </li> 
       <li>
-        <h4>Huyndai Universe</h4>
+        <h4>Huyndai Country</h4>
         <p>(đời xe 2005-2015)</p>
       </li>
     </ul><!-- end of slider nav -->
@@ -57,25 +57,25 @@
 
   <ul class="services">
     <li class="service">
-      <figure class="service-thumb"><a href="single-service.html"><img src="images/Refined/small/serv1.png" alt="Xe 4 chỗ"></a></figure>
-      <h4><a href="single-service.html">Xe 4 chỗ</a></h4>
+      <figure class="service-thumb"><a href="{{route('duadon')}}"><img src="images/Refined/small/serv1.png" alt="Xe 4 chỗ"></a></figure>
+      <h4><a href="{{route('duadon')}}">Xe 4 chỗ</a></h4>
       <p></p>
     </li>                                      
     <li class="service">
-      <figure class="service-thumb"><a href="single-service.html"><img src="images/Refined/small/serv2.png" alt="Xe 7 chỗ"></a></figure>
-      <h4><a href="single-service.html">Xe 7 chỗ</a></h4>
+      <figure class="service-thumb"><a href="{{route('duadon')}}"><img src="images/Refined/small/serv2.png" alt="Xe 7 chỗ"></a></figure>
+      <h4><a href="{{route('duadon')}}">Xe 7 chỗ</a></h4>
     </li>
     <li class="service">
-      <figure class="service-thumb"><a href="single-service.html"><img src="images/Refined/small/serv2.png" alt="Xe 16 chỗ"></a></figure>
-      <h4><a href="single-service.html">Xe 16 chỗ</a></h4>
+      <figure class="service-thumb"><a href="{{route('duadon')}}"><img src="images/Refined/small/serv2.png" alt="Xe 16 chỗ"></a></figure>
+      <h4><a href="{{route('duadon')}}">Xe 16 chỗ</a></h4>
     </li>
     <li class="service">
-      <figure class="service-thumb"><a href="single-service.html"><img src="images/Refined/small/serv3.png" alt="Xe 29 chỗ"></a></figure>
-      <h4><a href="single-service.html">Xe 29 chỗ</a></h4>      
+      <figure class="service-thumb"><a href="{{route('duadon')}}"><img src="images/Refined/small/serv3.png" alt="Xe 29 chỗ"></a></figure>
+      <h4><a href="{{route('duadon')}}">Xe 29 chỗ</a></h4>      
     </li>
     <li class="service">
-      <figure class="service-thumb"><a href="single-service.html"><img src="images/Refined/small/serv3.png" alt="Xe 45 chỗ"></a></figure>
-      <h4><a href="single-service.html">Xe 45 chỗ</a></h4>
+      <figure class="service-thumb"><a href="{{route('duadon')}}"><img src="images/Refined/small/serv3.png" alt="Xe 45 chỗ"></a></figure>
+      <h4><a href="{{route('duadon')}}">Xe 45 chỗ</a></h4>
     </li>
   </ul><!-- end of services -->                                                               
   <div id="content" class="full-width"></div>
@@ -110,12 +110,12 @@
             <p>Số điện thoại: 04.38.51.52.89</p>
           </li>                                                                                                           
         </ul>
-        <a href="doctors-four-columns.html" class="readmore">More ...</a>                                                       
+        <a href="{{route('intro')}}" class="readmore">More ...</a>                                                      
       </section>
 
       <section class="testi">
-        <h2 class="smart-head">Nhận xét của khách hàng</h2>
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+        <h2 class="smart-head">Câu hỏi thường gặp</h2>
+        <p>Nam Thanh luôn đồng hành cùng bạn.</p>
         <div class="pslider">
           <ul class="patients" style="position: relative; height: 133px;">                                                                            
             <li style="position: absolute; top: 0px; z-index: 3; opacity: 0; display: none;">
@@ -124,21 +124,29 @@
               </div>  
               <div class="detail">
                 <blockquote>
-                  <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. 
-                    Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.</p>
+                  <p>Bạn có thể gửi email hoặc gọi số liên hệ thuê xe trên website. Nhân viên kinh doanh sẽ lấy thông tin chuyến đi báo giá cho bạn, nếu bạn đồng ý về giá cả, chúng tôi sẽ xin thông tin từ bạn để tiến hành làm hợp đồng. Nếu bạn không thể đến công ty để kí hợp đồng thì nhân viên kinh doanh sẽ đến tận địa chỉ nhà bạn, hoặc ký hợp đồng qua Email, Fax.</p>
+                </blockquote>
+                <p class="author"><a href="#brian" class="author">Mr Nguyễn Mạnh Dũng,</a>Engineering Director</p>
+              </div>                                                                                                             
+            </li>                                               
+            <li style="position: absolute; top: 0px; z-index: 2; display: block; opacity: 1;">
+              <div class="imgbox" style="background-image: url(images/Refined/p3.png); background-color: rgb(230, 230, 230); background-position: 50% 50%; background-repeat: no-repeat no-repeat;">
+                <img  src="images/Refined/p3.png" alt="Image" style="display: none;">
+              </div>  
+              <div class="detail">
+                <blockquote>
+                  <p>Thuê xe của xedichvu.vn là khách hàng đã được hưởng những lợi ích to lớn, bao gồm:
+                    Giá rẻ so với các nhà cung cấp cùng dịch vụ
+                    Qui trình Đặt xe nhanh chóng và Minh bạh trong giao dịch và thanh toán
+                    Tiện lợi: Lái xe nhận và giao xe, lái xe đón bạn tại khách sạn, nơi họp hoặc bất kì nơi nào bạn yêu cầu.
+                    Không còn lo lắng: Lái xe có hiểu biết về địa phương và quen thuộc với các lịch trình ngắn nhất.
+                    An toàn: Hiểu biết về phương tiện để đáp ứng yêu cầu của bạn và hỗ trợ bạn nhu cầu về an ninh.
+                    Giá trị khác: Tiết kiệm đến 10 –20 %.
+                    Linh hoạt: Bạn có thể yêu cầu lái xe phục vụ bạn suốt thời gian thuê xe hoặc yêu cầu theo ngày, cả ngày hoặc một vài ngày.
+                    Chứng nhận, Bảo hiểm và Đào tạo toàn diện: Đảm bảo cho sự an tòan cá nhân và trách nhiệm của khách hàng.
+                    Dịch vụ chăm sóc khách hàng 24/7, và thêm nhiều dịch vụ khác nữa….</p>
                   </blockquote>
-                  <p class="author"><a href="#brian" class="author">Brian Wagner,</a>ENT Department</p>
-                </div>                                                                                                             
-              </li>                                               
-              <li style="position: absolute; top: 0px; z-index: 2; display: block; opacity: 1;">
-                <div class="imgbox" style="background-image: url(images/Refined/p3.png); background-color: rgb(230, 230, 230); background-position: 50% 50%; background-repeat: no-repeat no-repeat;">
-                  <img  src="images/Refined/p3.png" alt="Image" style="display: none;">
-                </div>  
-                <div class="detail">
-                  <blockquote>
-                    <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                  </blockquote>
-                  <p class="author"><a href="#Jullia" class="author">Jullia Robert,</a>Skin Care</p>
+                  <p class="author"><a href="#Jullia" class="author">Ms Lê Hồng Bích,</a>Saleswoman</p>
                 </div>                                                                                                             
               </li>                                               
               <li style="position: absolute; top: 0px; z-index: 1; display: none; opacity: 0;">
@@ -147,9 +155,9 @@
                 </div>  
                 <div class="detail">
                   <blockquote>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper.</p>
+                    <p>Để phục vụ khách hàng tốt hơn, xedichvu.net.vn tuyển chọn những tài xế từ 25 đến 35 tuổi và có nhiều kinh nghiệm trong ngành, tiếng Anh giao cơ bản và xe xedichvu.net.vn là xe kinh doanh nên được bảo trì, bảo dưỡng thường xuyên và xe của xedichvu.net.vn 90%- 100% là xe đời mới có máy lạnh, đầu đĩa, micro, tivi đầy đủ nên bạn yên tâm khi sử dụng dịch vụ tại xedichvu.net.vn</p>
                   </blockquote>
-                  <p class="author"><a href="#john" class="author">John Doe,</a>Dental Care</p>
+                  <p class="author"><a href="#john" class="author">Mr Nguyễn Mạnh Dũng,</a>Engineering Director</p>
                 </div>                                                                                                             
               </li>                                                                 
             </ul>

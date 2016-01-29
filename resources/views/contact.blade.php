@@ -48,10 +48,10 @@
       </script>       
     </div>                                                                                              
     
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+    <p>Công ty Xe du lịch Nam Thanh tên đầy đủ là Công ty TNHH Nam Thanh được thành lập từ năm 2004 với lĩnh vực kinh doanh chính là vận tải hành khách. Trải qua hơn 10 năm phát triển, Nam Thanh hôm nay đã đầu tư hơn 300 xe ô tô, phần lớn là xe nhập khẩu nguyên chiếc, hiện đại nhất với đủ loại từ xe 4 chỗ cho tới 45 chỗ. Đi cùng với đó, chúng tôi có khoảng gần 300 nhân viên kinh doanh, điều hành, lái xe, kế toán, văn phòng… được đào tạo chuyên nghiệp, luôn khát khao cống hiến, phấn đấu chung tay vì sự phát triển chung, vì sự thịnh vượng của công ty cũng như mỗi thành viên của Nam Thanh. </p>
     
     <address>
-      Contact Details will be appear <br>Contact Address will be appear here,<br>City, State, Country<br>
+      Liên hệ: <br>P106 tập thể Nam Đồng,<br>Đống Đa, Hà Nội<br>
     </address>
     
     <div class="contact-form-container">
@@ -109,7 +109,9 @@
       <div class="contact-widget">
         <p>
           <strong>Địa chỉ :</strong> P106 tập thể Nam Đồng - Đống Đa - Hà Nội<br>
-          <strong>Điện thoại :</strong> 09.04.20.39.93<br>
+          <strong>Điện thoại :</strong> 04.62 66 29 48 - 04.38 51 52 89<br>
+          <strong>Di động 1 :</strong> 09.04 20 39 93<br>
+          <strong>Di động 2 :</strong> 09.09 19 19 63<br>
         </p>
         <hr>
         <p>

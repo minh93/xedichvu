@@ -63,41 +63,34 @@
                         <li>
                             <a href="{{route('duadon')}}">Dịch vụ</a>
                             <ul>
-                                <li><a href="doctors-two-columns.html">Xe đưa đón cán bộ, học sinh sinh viên</a></li>
-                                <li><a href="doctors-four-columns.html">Đón tiếp sân bay</a></li>
-                                <li><a href="doctors-four-columns.html">Phục vụ khách thương mại</a></li>
-                                <li><a href="doctors-four-columns.html">Phục vụ lữ hành</a></li>
-                                <li><a href="doctors-four-columns.html">Phục vụ đón tiếp sân bay</a></li>
-                                <li><a href="doctors-four-columns.html">Phục vụ lễ hội</a></li>
-                                <li><a href="doctors-four-columns.html">Phục vụ studio cưới</a></li>
+                                <li><a href="{{route('duadon')}}">Xe đưa đón cán bộ, học sinh sinh viên</a></li>
+                                <li><a href="{{route('duadon')}}">Đón tiếp sân bay</a></li>
+                                <li><a href="{{route('duadon')}}">Phục vụ khách thương mại</a></li>
+                                <li><a href="{{route('duadon')}}">Phục vụ lữ hành</a></li>
+                                <li><a href="{{route('duadon')}}">Phục vụ đón tiếp sân bay</a></li>
+                                <li><a href="{{route('duadon')}}">Phục vụ lễ hội</a></li>
+                                <li><a href="{{route('duadon')}}">Phục vụ studio cưới</a></li>
                             </ul>
                         </li>
                         <li>
                             <a href="{{route('gallery')}}">Loại xe</a>
                         </li>
                         <li>
-                            <a href="four-columns-gallery.html">Báo giá</a>
+                            <a href="{{route('commingsoon')}}">Báo giá</a>
                             <ul>
-                                <li><a href="two-columns-gallery.html">2 Columns Gallery</a></li>
-                                <li><a href="three-columns-gallery.html">3 Columns Gallery</a></li>
-                                <li><a href="four-columns-gallery.html">4 Columns Gallery</a></li> 
-                                <li><a href="single-gallery.html">Gallery Single</a></li>
+                                <li><a href="{{route('commingsoon')}}">2 Columns Gallery</a></li>
+                                <li><a href="{{route('commingsoon')}}">3 Columns Gallery</a></li>
+                                <li><a href="{{route('commingsoon')}}">4 Columns Gallery</a></li> 
+                                <li><a href="{{route('commingsoon')}}">Gallery Single</a></li>
                             </ul>
                         </li>
                         <li>
                             <a href="{{route('contact')}}">Liên hệ</a>                            
                         </li>
                         <li>
-                            <a href="#">Tin tức</a>
-                            <ul>
-                                <li><a href="testimonials.html">Testimonials</a></li>
-                                <li><a href="elements.html">Elements</a></li>
-                                <li><a href="full-width.html">Full Width</a></li>
-                                <li><a href="single-blog.html">Blog Single</a></li>
-                                <li><a href="archive.html">Archive</a></li>
-                            </ul>
+                            <a href="{{route('commingsoon')}}">Tin tức</a>                            
                         </li>
-                        <li><a href="contact.html">Đặt xe</a></li>
+                        <li><a href="{{route('commingsoon')}}">Đặt xe</a></li>
                     </ul>
                 </div>
 

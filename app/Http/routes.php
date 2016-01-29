@@ -34,3 +34,7 @@ Route::get('gallery', ['as' => 'gallery', function()
 {
   return view('gallery');
 }]);
+Route::get('commingsoon', ['as' => 'commingsoon', function()
+{
+  return view('constructed_page');
+}]);
